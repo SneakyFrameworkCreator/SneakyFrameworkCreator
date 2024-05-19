@@ -4,4 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my mail: autismguy843@gmail.com
 - 😄 Pronouns: Class 5 IT guy
-- ⚡ Fun fact: I have cheesecake obsession
+- ⚡ Skills:
+- UI Design
+- Python skills = master
+- C skills = maybe
+- HTML CSS Skills
+- 
+-  
